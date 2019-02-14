@@ -1,0 +1,11 @@
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/obj/Debug/netcoreapp2.1/Dog.csprojAssemblyReference.cache
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/obj/Debug/netcoreapp2.1/Dog.csproj.CoreCompileInputs.cache
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/obj/Debug/netcoreapp2.1/Dog.AssemblyInfoInputs.cache
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/obj/Debug/netcoreapp2.1/Dog.AssemblyInfo.cs
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/bin/Debug/netcoreapp2.1/Dog.deps.json
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/bin/Debug/netcoreapp2.1/Dog.runtimeconfig.json
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/bin/Debug/netcoreapp2.1/Dog.runtimeconfig.dev.json
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/bin/Debug/netcoreapp2.1/Dog.dll
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/bin/Debug/netcoreapp2.1/Dog.pdb
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/obj/Debug/netcoreapp2.1/Dog.dll
+/Users/chelsealaptop/Documents/School/2040/Projects/Dog/Dog/Dog/obj/Debug/netcoreapp2.1/Dog.pdb

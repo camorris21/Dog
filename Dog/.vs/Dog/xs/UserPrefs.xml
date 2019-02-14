@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{B700B509-0CBF-4EE8-AC44-B951417A2618}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Dog/Program.cs">
     <Files>
-      <File FileName="Dog/Program.cs" Line="13" Column="1" />
+      <File FileName="Dog/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Dog FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Dog PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
